@@ -1,0 +1,6 @@
+@font-face{
+    font-family: Feedoka;
+    src: url(./FredokaOne-Regular.ttf);
+  }
+  
+  *{font-family: Feedoka !important;}

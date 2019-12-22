@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
-import Header from "./Header";
+import Header from "./Componentes/Header/Header";
 import SearchInput from "./SearchInput";
-import EmojiResults from "./EmojiResults";
+import EmojiResults from "./Componentes/EmojiResults/EmojiResults";
 import filterEmoji from "./filterEmoji";
 
 export default class App extends PureComponent {
